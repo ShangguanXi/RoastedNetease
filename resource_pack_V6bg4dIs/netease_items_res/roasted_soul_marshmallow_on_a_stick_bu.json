@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "roasted:soul_marshmallow_on_a_stick_burnt"
+        },
+        "description": {
+            "category": "roasted",
+            "identifier": "roasted:soul_marshmallow_on_a_stick_burnt",
+            "register_to_create_menu": true
+        }
+    }
+}

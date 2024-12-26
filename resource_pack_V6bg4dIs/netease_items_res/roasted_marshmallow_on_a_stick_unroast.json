@@ -1,0 +1,12 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "roasted:marshmallow_on_a_stick_unroast"
+        },
+        "description": {          
+            "identifier": "roasted:marshmallow_on_a_stick_unroast",
+            "register_to_create_menu": true
+        }
+    }
+}

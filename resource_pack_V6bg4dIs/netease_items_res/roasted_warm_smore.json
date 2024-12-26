@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "roasted:warm_smore"
+        },
+        "description": {
+            "category": "roasted",
+            "identifier": "roasted:warm_smore",
+            "register_to_create_menu": true
+        }
+    }
+}

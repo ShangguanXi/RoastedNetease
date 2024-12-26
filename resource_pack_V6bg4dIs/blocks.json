@@ -1,0 +1,27 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "roasted:pile_of_burnt_marshmallows": {
+        "sound": "wood",
+        "textures": "roasted:pile_of_burnt_marshmallows"
+    },
+    "roasted:pile_of_charred_marshmallows": {
+        "sound": "wood",
+        "textures": "roasted:pile_of_charred_marshmallows"
+    },
+    "roasted:pile_of_marshmallows": {
+        "sound": "wood",
+        "textures": "roasted:pile_of_marshmallows"
+    },
+    "roasted:pile_of_perfect_marshmallows": {
+        "sound": "wood",
+        "textures": "roasted:pile_of_perfect_marshmallows"
+    },
+    "roasted:pile_of_warm_marshmallows": {
+        "sound": "wood",
+        "textures": "roasted:pile_of_warm_marshmallows"
+    }
+}

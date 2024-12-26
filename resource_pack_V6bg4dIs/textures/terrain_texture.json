@@ -1,0 +1,21 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "roasted:pile_of_burnt_marshmallows": {
+            "textures": "textures/blocks/pile_of_burnt_marshmallows"
+        },
+        "roasted:pile_of_charred_marshmallows": {
+            "textures": "textures/blocks/pile_of_charred_marshmallows"
+        },
+        "roasted:pile_of_marshmallows": {
+            "textures": "textures/blocks/pile_of_marshmallows"
+        },
+        "roasted:pile_of_perfect_marshmallows": {
+            "textures": "textures/blocks/pile_of_perfect_marshmallows"
+        },
+        "roasted:pile_of_warm_marshmallows": {
+            "textures": "textures/blocks/pile_of_warm_marshmallows"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

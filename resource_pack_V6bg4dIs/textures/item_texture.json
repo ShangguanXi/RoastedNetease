@@ -1,0 +1,54 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "roasted:burnt_smore": {
+            "textures": "textures/items/burnt_smore"
+        },
+        "roasted:charred_smore": {
+            "textures": "textures/items/charred_smore"
+        },
+        "roasted:marshmallow": {
+            "textures": "textures/items/marshmallow"
+        },
+        "roasted:marshmallow_on_a_stick_burnt": {
+            "textures": "textures/items/marshmallow_on_a_stick_burnt"
+        },
+        "roasted:marshmallow_on_a_stick_charred": {
+            "textures": "textures/items/marshmallow_on_a_stick_charred"
+        },
+        "roasted:marshmallow_on_a_stick_perfect": {
+            "textures": "textures/items/marshmallow_on_a_stick_perfect"
+        },
+        "roasted:marshmallow_on_a_stick_unroast": {
+            "textures": "textures/items/marshmallow_on_a_stick_unroasted"
+        },
+        "roasted:marshmallow_on_a_stick_warm": {
+            "textures": "textures/items/marshmallow_on_a_stick_warm"
+        },
+        "roasted:perfect_smore": {
+            "textures": "textures/items/perfect_smore"
+        },
+        "roasted:soul_marshmallow_on_a_stick_burnt": {
+            "textures": "textures/items/soul_marshmallow_on_a_stick_burnt"
+        },
+        "roasted:soul_marshmallow_on_a_stick_charred": {
+            "textures": "textures/items/soul_marshmallow_on_a_stick_charred"
+        },
+        "roasted:soul_marshmallow_on_a_stick_perfect": {
+            "textures": "textures/items/soul_marshmallow_on_a_stick_perfect"
+        },
+        "roasted:soul_marshmallow_on_a_stick_unroast": {
+            "textures": "textures/items/marshmallow_on_a_stick_unroasted"
+        },
+        "roasted:soul_marshmallow_on_a_stick_warm": {
+            "textures": "textures/items/soul_marshmallow_on_a_stick_warm"
+        },
+        "roasted:unroasted_smore": {
+            "textures": "textures/items/unroasted_smore"
+        },
+        "roasted:warm_smore": {
+            "textures": "textures/items/warm_smore"
+        }
+    },
+    "texture_name": "atlas.items"
+}
